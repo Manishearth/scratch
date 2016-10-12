@@ -1,0 +1,16 @@
+[root]
+name = "main"
+version = "0.1.0"
+dependencies = [
+ "dep1 0.1.0",
+ "dep2 0.1.0",
+]
+
+[[package]]
+name = "dep1"
+version = "0.1.0"
+
+[[package]]
+name = "dep2"
+version = "0.1.0"
+

@@ -1,0 +1,10 @@
+[package]
+name = "main"
+version = "0.1.0"
+authors = ["Manish Goregaokar <manishsmail@gmail.com>"]
+
+[dependencies.dep1]
+path = "../dep1"
+
+[dependencies.dep2]
+path = "../dep2"
